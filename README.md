@@ -1,7 +1,8 @@
 # Sahrul Hidayat's Portofolio
 ### Hello, my name is Sahrul Hidayat, I am an android developer. I have always been passionate about developing Android-based applications. I always try to follow the best practices in development and use the most efficient and robust technology to create an application, especially in the Android field. I always enjoy learning new things and sharing.
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sahrulhint@gmail.com"><img src="https://img.shields.io/badge/email-Sahrul-green.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/sahrul-hidayat" target="_blank"><img src="https://img.shields.io/badge/linkedin-Sahrul-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/sahidev_/" target="_blank"><img src="https://img.shields.io/badge/instagram-sahidev_-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sahrulhint@gmail.com"><img src="https://img.shields.io/badge/email-Sahrul-green.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/sahrul-hidayat" target="_blank"><img src="https://img.shields.io/badge/linkedin-Sahrul-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/sahidev_/" target="_blank"><img src="https://img.shields.io/badge/instagram-sahidev_-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://sahi.my.id" target="_blank"><img src="https://img.shields.io/badge/website-sahi-yellow.svg?style=for-the-badge&logo=none&logoColor=white"></a>
+
 
 # Maknyuss
 #### Date : January 2024 (In Development)
