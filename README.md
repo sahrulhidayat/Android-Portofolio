@@ -8,5 +8,5 @@ An application for making notes and checklists. This application uses Room as a 
 
 <a href='https://play.google.com/store/apps/details?id=com.sahi.elingnote'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a> &nbsp;&nbsp;&nbsp; <a href='https://github.com/sahrulhidayat/elingnote'><img alt='Github Repos' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' height='80px'></a>
 
-### Technolgies : Jetpack Compose, Room, MVVM, Material 3, Kotlin, Koin (Kotlin Injection)
+#### Technolgies : Jetpack Compose, Room, MVVM, Material 3, Kotlin, Koin (Kotlin Injection)
 
