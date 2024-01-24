@@ -5,7 +5,7 @@
 
 
 # Maknyuss
-#### Date : January 2024 (In Development)
+#### Date : January 23, 2024 (In Development)
 This application is used to search for cooking recipes using the internet, and save them to a local database. It can display details of the dish, stages, and also the ingredients used. This application uses [Spoonacular API](https://spoonacular.com/food-api/docs) as a source.
 
 <a href='https://github.com/sahrulhidayat/maknyuss'><img alt='Github Repos' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' height='80px'></a>
