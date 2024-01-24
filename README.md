@@ -14,6 +14,9 @@ This application is used to search for cooking recipes using the internet, and s
 
 
 # Eling Note
+
+![Elingnote feature](./assets/preview-elingnote.gif)
+
 #### Date : July 2023 - Now
 An application for making notes and checklists. This application uses Room as a database and Jetpack Compose to build the UI. This application also uses Material 3 which was introduced by Google at Google I/O in 2022 and supports themed icons on Android version 13 and above.
 
